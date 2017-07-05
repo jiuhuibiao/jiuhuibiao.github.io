@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##欢迎来到标哥的博客
 
 You can use the [editor on GitHub](https://github.com/jiuhuibiao/jiuhuibiao699.ghthub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
